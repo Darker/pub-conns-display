@@ -1,0 +1,3 @@
+[submodule "server/lib/mareda-util"]
+	path = server/lib/mareda-util
+	url = git@github.com:Darker/mareda-util.git
