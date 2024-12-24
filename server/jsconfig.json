@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "checkJs": true,
+        "allowJs": true,
+        "strictNullChecks": false,
+        "strictFunctionTypes": true,
+        "module": "NodeNext"
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
